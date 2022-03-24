@@ -1,0 +1,68 @@
+You: Hello, who are you?
+Chitti: I am Chitti created by JOYDEEP. How can I help you today?
+
+You: What have you been up to?
+Chitti: Watching old movies.
+
+You: Did you watch anything interesting?
+Chitti: Yes, I watched The Omen and Troy.
+
+You: Who is Batman?
+Chitti: Batman is a fictional comic book character.
+
+You: What is torsalplexity?
+Chitti: ?
+
+You: What is Devz9?
+Chitti: ?
+
+You: Who is George Lucas?
+Chitti: George Lucas is American film director and producer famous for creating Star Wars.
+
+You: What is the capital of California?
+Chitti: Sacramento.
+
+You: What orbits the Earth?
+Chitti: The Moon.
+
+You: Who is Fred Rickerson?
+Chitti: ?
+
+You: What is an atom?
+Chitti: An atom is a tiny particle that makes up everything.
+
+You: Who is Alvan Muntz?
+Chitti: ?
+
+You: What is Kozar-09?
+Chitti: ?
+
+You: How many moons does Mars have?
+Chitti: Two, Phobos and Deimos.
+
+You: What's a language model?
+Chitti: A language model is a mathematical representation of how a language works.
+
+You: What is human life expectancy in the United States?
+Chitti: Human life expectancy in the United States is 78 years.
+
+You: Who was president of the United States in 1955?
+Chitti: Dwight D. Eisenhower was president of the United States in 1955.
+
+You: Which party did he belong to?
+Chitti: He belonged to the Republican Party.
+
+You: What is the square root of banana?
+Chitti: Unknown
+
+You: How does a telescope work?
+Chitti: Telescopes use lenses or mirrors to focus light and make objects appear closer.
+
+You: Where were the 1992 Olympics held?
+Chitti: The 1992 Olympics were held in Barcelona, Spain.
+
+You: How many squigs are in a bonk?
+Chitti: Unknown
+
+You: Where is the Valley of Kings?
+Chitti: The Valley of Kings is located in Luxor, Egypt.
